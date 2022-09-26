@@ -10,7 +10,7 @@ require (
 	github.com/beorn7/perks v1.0.1
 	github.com/go-echarts/go-echarts/v2 v2.2.4
 	github.com/mattn/go-isatty v0.0.13
-	github.com/mattn/go-runewidth v0.0.13
+	github.com/mattn/go-runewidth v0.0.14
 	github.com/nicksnyder/go-i18n v1.10.1 // indirect
 	github.com/valyala/fasthttp v1.29.0
 	go.uber.org/automaxprocs v1.4.0
