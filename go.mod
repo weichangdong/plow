@@ -8,7 +8,7 @@ require (
 	github.com/alecthomas/units v0.0.0-20210208195552-ff826a37aa15 // indirect
 	github.com/andybalholm/brotli v1.0.3 // indirect
 	github.com/beorn7/perks v1.0.1
-	github.com/go-echarts/go-echarts/v2 v2.2.4
+	github.com/go-echarts/go-echarts/v2 v2.2.5
 	github.com/mattn/go-isatty v0.0.13
 	github.com/mattn/go-runewidth v0.0.13
 	github.com/nicksnyder/go-i18n v1.10.1 // indirect
